@@ -1,0 +1,4 @@
+'use strict';
+
+var titleElement = document.querySelector('#title');
+titleElement.innerHTML = titleElement.innerHTML + ' Mundo';

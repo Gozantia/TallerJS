@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    text-align: center;
+}
+.body8 {
+    height: 250px;
+    width: 250px;
+    display: grid;
+    align-items: center;
+    background: #ffcc00;
+    margin: auto;
+    justify-content: center;
+}
+
+#status_container{
+    font-size: 10vw;
+}
+.bg-sad {
+    background-color: #382b16;
+    color: white;
+  }

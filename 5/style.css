@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    text-align: center;
+}
+hr {
+    background: rgb(161, 255, 161);
+}
+li {
+    text-align: left;
+}
+ul.teachers {
+    display: flex;
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center; 
+}
+ul.teachers li{
+text-align: center;
+cursor: pointer;
+}
+ul.teachers img{
+    max-width: 250px;
+}
+
+.red {
+    background-color: #da2020;
+    color: white;
+  }
+  
+.purple {
+    background-color: purple;
+    color: white;
+  }
